@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/49489c61-f548-4cec-982d-e443f9ca894f/project/363fc264-bb1a-42b4-94db-1ed3f5a743d3.svg)](https://wakatime.com/badge/user/49489c61-f548-4cec-982d-e443f9ca894f/project/363fc264-bb1a-42b4-94db-1ed3f5a743d3)
 
 # Password Generator
 
